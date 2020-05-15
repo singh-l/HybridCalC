@@ -1,5 +1,8 @@
 # HybridCalC
- A Hybrid calculator implemented via lex and yacc
+
+SID - 16103104, Compiler Design
+
+A Hybrid calculator implemented via lex and yacc
 
 to run this calculator, do the following:
 Go to folder containing these files
