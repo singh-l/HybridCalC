@@ -10,8 +10,8 @@ Go to folder containing these files
 2. ./run.sh
 
 
-![alt text](https://github.com/singh-l/TicTacToe/blob/master/images/p1.png?raw=true)
+![alt text](https://github.com/singh-l/HybridCalC/blob/master/images/p1.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/TicTacToe/blob/master/images/p2.png?raw=true)
+![alt text](https://github.com/singh-l/HybridCalC/blob/master/images/p2.png?raw=true)
 </br>
-![alt text](https://github.com/singh-l/TicTacToe/blob/master/images/p3.png?raw=true)
+![alt text](https://github.com/singh-l/HybridCalC/blob/master/images/p3.png?raw=true)
