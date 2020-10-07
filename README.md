@@ -9,6 +9,8 @@ Go to folder containing these files
 1. chmod +x run.sh
 2. ./run.sh
 
+The table below lists the functions supported by HybridCalC
+
 
 ![alt text](https://github.com/singh-l/HybridCalC/blob/master/images/p1.png?raw=true)
 </br>
