@@ -11,7 +11,7 @@ Go to folder containing these files
 
 The table below lists the functions supported by HybridCalC
 </br>
-Complete Report for the project can be found 🥅 here -> [![Website](https://img.shields.io/website?label=Report_HybridCalC&style=for-the-badge&url=https%3A%2F%2Fsites.google.com/view/lovedeepsingh)](https://github.com/singh-l/HybridCalC/blob/master/SID_16103104_Compiler_Design_Project.pdf)
+Complete Report for the project can be found here ->  <a href = "https://github.com/singh-l/HybridCalC/blob/master/SID_16103104_Compiler_Design_Project.pdf"> <img src="https://www.seekpng.com/png/small/208-2088541_source-dataondemand-fr-report-project-icon-report-icon.png" width="20"></a>
 
 
 
