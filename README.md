@@ -13,7 +13,5 @@ The table below lists the functions supported by HybridCalC
 
 
 ![alt text](https://github.com/singh-l/HybridCalC/blob/master/images/p1.png?raw=true)
-</br>
 ![alt text](https://github.com/singh-l/HybridCalC/blob/master/images/p2.png?raw=true)
-</br>
 ![alt text](https://github.com/singh-l/HybridCalC/blob/master/images/p3.png?raw=true)
